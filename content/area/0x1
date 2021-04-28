@@ -1,0 +1,9 @@
+Welcome to Tommy's RPG engine demo
+This is the title screen area, 0x1.
+
+To enter the demo go east (type 'e').
+I have no idea what happens if you go any other direction because there are no collision rules;
+however I can only imagine that it has a lot of segfaults and zeroes if you exit the game bounds.
+In this demo I try to prevent people from going out of the map with lore but it is entirely possible.
+
+You are responsible if you do that :D
